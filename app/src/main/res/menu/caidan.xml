@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/tran_item"
+            android:title="进制转换"/>
+        <item
+            android:id="@+id/three_item"
+            android:title="三角函数运算"/>
+        <item
+            android:id="@+id/length_item"
+            android:title="长度单位换算"/>
+        <item
+            android:id="@+id/help_item"
+            android:title="帮助" />
+
+        <item
+            android:id="@+id/exit_item"
+            android:title="退出"/>
+</menu>
